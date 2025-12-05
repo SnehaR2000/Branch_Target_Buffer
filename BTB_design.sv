@@ -1,3 +1,6 @@
+
+///Branch Target Buffer design with inputs and Outputs///
+
 module btb(
     input  logic        clk,
     input  logic        rst,
